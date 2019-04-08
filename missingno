@@ -1,0 +1,13 @@
+A = [-10, 0, 1, 100, 3, 2, 999]
+
+def missingno(A):
+    B = 1
+  
+    A = set(A)
+  
+    while B in A:
+        B += 1
+    
+  return B
+  
+  
