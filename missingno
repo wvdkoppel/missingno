@@ -1,3 +1,4 @@
+# insert a list with integers between - 1 million and + 1 million to test the function.
 A = [-10, 0, 1, 100, 3, 2, 999]
 
 def missingno(A):
